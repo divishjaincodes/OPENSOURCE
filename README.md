@@ -5,7 +5,6 @@ This repository contains the required artifacts for "The Open Source Audit" Caps
 
 ## Repository Structure
 
-- `report.md`: The primary analytical report (16-page target equivalent) on the Python ecosystem.
 - `scripts/`: Directory containing 5 robust shell scripts written strictly for Linux.
   - `system_identity.sh`
   - `python_inspector.sh`
@@ -45,4 +44,4 @@ These scripts are designed **strictly for Linux architectures**. Running them on
    - For Interactive Manifesto Generation: `./philosophy_gen.sh`
 
 ## Artifact Verification
-All technical outputs and script logs have been analyzed and securely embedded at the conclusion of the `report.md` output as **Walkthrough Artifacts**.
+All technical outputs and script logs have been analyzed and securely embedded at the conclusion in the Report.
